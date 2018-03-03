@@ -18,8 +18,6 @@ class LogicaMatrizController extends Controller
         $cont2=0;
         $cont3=0;
         $cont4=0;
-        $cont5=0;
-
 
         $matrizNueva[]=['Carlos','David','Camilo','Andres','Hector','Hugo','Dora','Janeth','Manuel','Jeffrey'];
         $matrizNueva[]=['Carlos1','David1','Camilo1','Andres1','Hector1','Hugo1','Dora1','Janeth1','Manuel1','Jeffrey1'];

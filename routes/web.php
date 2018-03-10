@@ -14,5 +14,10 @@
 Route::get('/', function () {
     return view('welcome');
 });
-
+Route::get('/welcome', function () {
+    return view('welcome');
+});
+Route::get('/master', function () {
+    return view('master');
+});
 Route::post('formulario', 'LogicaMatrizController@gestionMatriz');
